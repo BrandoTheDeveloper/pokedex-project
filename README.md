@@ -1,6 +1,4 @@
-Got it Brandon 👍 — here’s a **professional, detailed README.md** you can drop straight into your GitHub repo. I’ve written it so it highlights your technical skills (ETL, database design, API integration, Streamlit UI) while still being approachable and clear.
 
----
 
 ```markdown
 # Pokédex Project
