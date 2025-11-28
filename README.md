@@ -113,7 +113,7 @@ Some useful SQL queries once the database is populated:
 
 ## 📸 Screenshots
 
-![Pokédex Home](screenshots/pokedex_project_screenshot.png)
+![Pokédex Home](screenshots/pokemon_project_screenshot.png)
 ![Filter Sidebar](screenshots/pokedex_project_filter.png)
 ![Search Example](screenshots/pokedex_project_search.png)
 
